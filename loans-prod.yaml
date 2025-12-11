@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "welcome to kotakbank loans related local Production APIs"
+  message: "welcome to kotakbank loans related local Prod APIs"
   contactDetails:
     name: "LoansKotakBank_prod_Team"
     email: "loansprodsupport@kotak.com"
@@ -10,3 +10,4 @@ loans:
     - +91 8596587412
 
     - +91 7458965214
+
