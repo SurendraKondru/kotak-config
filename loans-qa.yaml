@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "welcome to kotakbank loans related local QA APIs"
+  contactDetails:
+    name: "LoansKotakBank_QA_Team"
+    email: "loansqasupport@kotak.com"
+  onCallSupport:
+    - +91 6854782130
+    - +91 7825698100

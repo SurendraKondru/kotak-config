@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "welcome to kotakbank accounts related local QA APIs"
+  contactDetails:
+    name: "AccountsKotakBank_QA_Team"
+    email: "accountsqasupport@kotak.com"
+  onCallSupport:
+    - +91 9658745896
+    - +91 7785964125

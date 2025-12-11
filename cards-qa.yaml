@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "welcome to kotakbank cards related local QA APIs"
+  contactDetails:
+    name: "CardsKotakBank_QA_Team"
+    email: "cardsqasupport@kotak.com"
+  onCallSupport:
+    - +91 8978547244
+    - +91 7987301444

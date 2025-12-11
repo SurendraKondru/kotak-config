@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "welcome to kotakbank loans related local Dev APIs"
+  contactDetails:
+    name: "LoansKotakBank_Dev_Team"
+    email: "loansdevsupport@kotak.com"
+  onCallSupport:
+    - +91 8589632587
+    - +91 9410236578

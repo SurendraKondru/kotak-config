@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "welcome to kotakbank accounts related local Dev APIs"
+  contactDetails:
+    name: "AccountsKotakBank_Dev_Team"
+    email: "accountsdevsupport@kotak.com"
+  onCallSupport:
+    - +91 9876543210
+    - +91 9876543220
+

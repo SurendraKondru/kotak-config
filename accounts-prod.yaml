@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "welcome to kotakbank accounts related local Prod APIs"
+  contactDetails:
+    name: "AccountsKotakBank_prod_Team"
+    email: "accountsprodsupport@kotak.com"
+  onCallSupport:
+    - +91 6281465874
+    - +91 9666544188

@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "welcome to kotakbank cards related local Dev APIs"
+  contactDetails:
+    name: "CardsKotakBank_Dev_Team"
+    email: "cardsdevsupport@kotak.com"
+  onCallSupport:
+    - +91 8569321458
+    - +91 9658741258
