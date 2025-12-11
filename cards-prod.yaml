@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "welcome to kotakbank cards related local Production APIs"
+  message: "welcome to kotakbank cards related local Prod APIs"
   contactDetails:
     name: "CardsKotakBank_prod_Team"
     email: "cardsprodsupport@kotak.com"
@@ -10,3 +10,4 @@ cards:
     - +91 9874587458
 
     - +91 7485965858
+
