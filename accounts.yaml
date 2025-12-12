@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "welcome to kotakbank accounts related local Dev APIs"
+  message: "welcome to kotakbank accounts related local WebHook-Dev APIs"
   contactDetails:
     name: "AccountsKotakBank_Dev_Team"
     email: "accountsdevsupport@kotak.com"
