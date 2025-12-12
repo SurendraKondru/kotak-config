@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "welcome to kotakbank accounts related local Prod APIs"
+  message: "welcome to kotakbank accounts related local hookdeck-Prod APIs"
   contactDetails:
     name: "AccountsKotakBank_prod_Team"
     email: "{cipher}6cc6e40fc396702a0e870bd170c15a4c79919e90ef34c2d0542754b6def3b9bef4a58f821a7c3ca265bbede685ee0afd"
@@ -10,6 +10,7 @@ accounts:
     - +91 6281465874
 
     - +91 9666544188
+
 
 
 
